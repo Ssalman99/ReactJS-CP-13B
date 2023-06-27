@@ -1,0 +1,32 @@
+/* Write your CSS here */
+
+.app-button {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+  font-weight: 500;
+  font-size: 22px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #9aa5b1;
+  padding-right: 35px;
+  padding-left: 35px;
+}
+
+.active-button {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 22px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-bottom: 10px;
+
+  border-bottom: 3px solid #0b69ff;
+  color: #0b69ff;
+}
